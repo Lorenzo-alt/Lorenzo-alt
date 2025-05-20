@@ -2,8 +2,8 @@
 #### Estudante, Aprendendo de tudo!
 
 - 🔭 Vinculado a nenhuma organização.
-- 🌱 Ciencia da computação na Universidade São Judas, 8º semestre. 
-      Interesse de conhecimento em frameworks relativos a Web e para Python em geral
+- 🌱 Bacharel em Ciencia da computação na Universidade São Judas. 
+      Interesse de conhecimento em frameworks relativos a Web e para C# .NET em geral
 - 📫 lorenzo.juliati@terra.com.br
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzo-alt&layout=compact&theme=dark)](https://github.com/Lorenzo-alt/github-readme-stats)
