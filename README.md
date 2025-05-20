@@ -1,7 +1,7 @@
 ### Olá ✌ Sou o Lorenzo!
 #### Estudante, Aprendendo de tudo!
 
-- 🔭 Vinculado a nenhuma organização.
+- 🔭 Vinculado a MonsiERP, ERP voltado a empresas de arquitetura/engenharia.
 - 🌱 Bacharel em Ciencia da computação na Universidade São Judas. 
       Interesse de conhecimento em frameworks relativos a Web e para C# .NET em geral
 - 📫 lorenzo.juliati@terra.com.br
